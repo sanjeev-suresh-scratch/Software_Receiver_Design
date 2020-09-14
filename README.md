@@ -1,2 +1,7 @@
 # Software_Reciver_Design
-Python code for communication sub-systems
+
+Repository for all practice code implemented from the book "Software Receiver Desgin" by Johnson, Sethares & Klein 
+Each chapter in separate sub-folders 
+
+
+
