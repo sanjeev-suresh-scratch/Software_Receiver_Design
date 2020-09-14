@@ -1,7 +1,7 @@
 # Software_Reciver_Design
 
 Repository for all practice code implemented from the book "Software Receiver Desgin" by Johnson, Sethares & Klein 
-Each chapter in separate sub-folders 
+\n Each chapter in separate sub-folders 
 
 
 
