@@ -1,4 +1,4 @@
-# Software_Reciver_Design
+# Software Reciver Design
 
 Repository for all practice code implemented from the book "Software Receiver Desgin" by Johnson, Sethares & Klein 
 
